@@ -7,7 +7,7 @@
 ## Introduction
 
 ```
-A Web Developer and Back End developer based in macedonia,
+A Web Developer and Back End developer based in Macedonia,
 working and learning my way around the software development space.
 ```
 
